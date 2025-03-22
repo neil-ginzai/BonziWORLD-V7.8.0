@@ -462,15 +462,15 @@ reply: (user, param)=>{
 		let tonuke = find(param);
 		if(tonuke == null || tonuke.level >= user.level) return;
 		tonuke.public.color = "floyd";
-		tonuke.public.name = "DIRTY NIGGER";
-		tonuke.public.dispname = "DIRTY NIGGER";
-		tonuke.public.tag = "DIRTY NIGGER";
+		tonuke.public.name = "DIRTY SHITHEAD";
+		tonuke.public.dispname = "DIRTY SHITHEAD";
+		tonuke.public.tag = "underaged retard";
 		tonuke.public.tagged = true;
 		tonuke.public.muted = true;
 		tonuke.public.locked = true;
 		tonuke.room.emit("update", tonuke.public);
 		tonuke.socket.emit("update_self", {nuked: true, level: tonuke.level, roomowner: tonuke.public.guid == tonuke.room.ownerID})
-		tonuke.room.emit("talk", {guid: tonuke.public.guid, text: "I AM A GAY FAGGOT"});
+		tonuke.room.emit("talk", {guid: tonuke.public.guid, text: "I AM SO GAY WITH MY GAYNUS"});
 	},
 	poll: (user, param)=>{
     Object.keys(user.room.users).forEach(usr=>{
