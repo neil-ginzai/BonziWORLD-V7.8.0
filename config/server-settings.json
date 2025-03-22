@@ -1,9 +1,9 @@
 {
 	"port": 2404,
-	"godword": "ce9eb23b94ea9aa2724ddda2ce761479eeaa79f57016cceecd7582ff5aa8440a",
-	"kingwords": ["ce9eb23b94ea9aa2724ddda2ce761479eeaa79f57016cceecd7582ff5aa8440a"],
-	"lowkingwords": ["ce9eb23b94ea9aa2724ddda2ce761479eeaa79f57016cceecd7582ff5aa8440a"],
-	"defname": "Anonymous",
+	"godword": "FearThePinkball2025",
+	"kingwords": ["FearThePinkball2025"],
+	"lowkingwords": ["FearThePinkball2025"],
+	"defname": "Y/N",
 	"maxname": 30,
 	"maxmessage": 1000,
 	"clientlimit": 3,
