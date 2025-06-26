@@ -1,6 +1,6 @@
 {
 	"port": 2404,
-	"godword": "a620f9f2ce97ee2abd9152c556f9d8d76e5cf86d590c23606afad5ef038d6330",
+	"godword": "ccb9460f7b88b740041f5bb2b4836f9b894ed59e7355300d6ad6294524ab116b",
 	"kingwords": ["ceb930eb3d9f9c8d92eeb99ae6909473250f67273bd470ce59cc0e63d20e15e8"],
 	"lowkingwords": ["530cce0975b4a4b87bba73db66e60f64141dd669e5b45b37bdb4f3ec5b4f8c75", "3fb1fa2a3eed383f096b3373eb2aea64e67c19ab27903de46740a934019dbf2e", " 8682eca7c8bba6a84bcbdce2c4d00149efbe64e7562ebb8bf8c5b6e0a265639f"],
 	"defname": "Blud",
